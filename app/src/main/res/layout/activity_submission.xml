@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent"
+    tools:context=".Submission">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/submision_toolbar"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/submision_toolbar"
+
+        android:id="@+id/submission_imageView"
+        android:src="@drawable/gads"
+        />
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="Project Submission"
+       android:layout_below="@id/submission_imageView"
+       android:textStyle="bold"
+       android:textSize="20sp"
+       android:textColor="@color/yellow"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="50dp"
+       android:id="@+id/subTextView"
+       />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:id="@+id/subView"
+        android:layout_marginTop="5dp"
+        android:layout_below="@id/subTextView"
+        android:background="@drawable/gradient"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nameLinearLayout"
+        android:orientation="horizontal"
+        android:layout_below="@id/subView"
+        android:layout_marginTop="30dp">
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:hint="First Name"
+            android:textColor="@color/black"
+            android:paddingTop="10dp"
+            android:paddingLeft="5dp"
+            android:id="@+id/first_name"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/white"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:hint="Last Name"
+            android:id="@+id/last_name"
+            android:textColor="@color/black"
+            android:paddingLeft="5dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:background="@color/white"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/emailAdress"
+        android:layout_below="@id/nameLinearLayout"
+        android:paddingTop="15dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:hint="Email Address"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/emailAdress"
+        android:paddingTop="15dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:hint="Project on GITHUB (link)"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/github"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textColor="@color/white"
+        android:background="@drawable/submit"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/github"
+        android:paddingLeft="30dp"
+        android:textStyle="bold"
+        android:id="@+id/project_submit"
+        android:paddingRight="30dp"
+        android:layout_marginTop="30dp"/>
+
+
+</RelativeLayout>
