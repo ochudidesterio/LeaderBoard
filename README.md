@@ -21,9 +21,9 @@
    <img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
   </p>
   <p align="center">
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+ [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-  </p>
+</p>
   
   
   
