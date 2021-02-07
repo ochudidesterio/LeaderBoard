@@ -32,8 +32,14 @@ This activity is lauched via intent from the clickListener in the submit button 
 
 # Dialogs
 
-## Imformation dialog
+## Information dialog
 
 This is a dialog is triggered upon the onclick of submit button on the Submission activity form.
 
-![Information Dialog]()
+![Information Dialog](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/Information%20Dialog.png?raw=true)
+
+## Success dialog
+
+This dialog pops up when the submision was successful
+
+![Success Dialog]()
