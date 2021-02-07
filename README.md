@@ -28,6 +28,8 @@ has a submission form that submits a github link together with user names and em
 
 ## Project Flow
 
+-[Splash Screen](#splash-screen)
+
 ## Splash screen
 
 This is the laucher activity of the whole application.
