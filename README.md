@@ -17,3 +17,9 @@ has a submission form that submits a github link together with user names and em
 This is the laucher activity of the whole application.
 
 ![SplashScreen](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/splash%20Screen.png?raw=true)
+
+## Home Activity
+
+An activity with two tabs, one for top learners and another for top Skill IQs. The tablayout headings are added using PagerAdapter.
+
+![Top Learners](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/top%20learners.png?raw=true)  ![Top Skill IQ](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/top%20learners.png?raw=true)
