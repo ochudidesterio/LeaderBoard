@@ -1,3 +1,19 @@
+
+## Table of Contents
+
+[Table of Contents](#table-of-contents)
+- [LeaderBoard](#leaderboard)
+- [Prerequisites](#prerequisites)
+- [Project Flow](#project-flow)
+  - [Splash Screen](#splash-screen)
+  - [Home Activity](#home-activity)
+  - [Submission Activity](#submission-activity)
+ - [Dialogs](#dialogs)
+  - [nformation Dialog](#information-dialog)
+  - [Success Dialog](#success-dialog)
+  - [Error Dialog](#error-dialog)
+
+
 <p align="center">
   
   <p align="center">
@@ -28,13 +44,6 @@ has a submission form that submits a github link together with user names and em
 
 ## Project Flow
 
-- [LeaderBoard](#leaderboard)
-- [Prerequisites](#prerequisites)
-  - [Splash Screen](#splash-screen)
-  - [Home Activity](#home-activity)
-  - [Submission Activity](#submission-activity)
- - [Dialogs](#dialogs)
-  
 
 ## Splash screen
 
