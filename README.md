@@ -26,6 +26,14 @@ An activity with two tabs, one for top learners and another for top Skill IQs. T
 
 ## Submission Activity
 
-This form is lauched via intent from the clickListener in the submit button on the Home Activity.
+This activity is lauched via intent from the clickListener in the submit button on the Home Activity.
 
-![Submission form]()
+![Submission form](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/submission%20form.png?raw=true)
+
+# Dialogs
+
+## Imformation dialog
+
+This is a dialog is triggered upon the onclick of submit button on the Submission activity form.
+
+![Information Dialog]()
