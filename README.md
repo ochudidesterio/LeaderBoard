@@ -22,4 +22,10 @@ This is the laucher activity of the whole application.
 
 An activity with two tabs, one for top learners and another for top Skill IQs. The tablayout headings are added using PagerAdapter.
 
-![Top Learners](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/top%20learners.png?raw=true)  ![Top Skill IQ](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/top%20learners.png?raw=true)
+![Top Learners](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/top%20learners.png?raw=true)         ![Top Skill IQ](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/top%20IQ.png?raw=true)
+
+## Submission Activity
+
+This form is lauched via intent from the clickListener in the submit button on the Home Activity.
+
+![Submission form]()
