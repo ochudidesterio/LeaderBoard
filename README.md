@@ -1,6 +1,10 @@
 <p align="center">
   
-  <h3 align="center">LeaderBoard</h3>
+  <p align="center">
+   <img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
+  </p>
+  
+  <h3 align="left">LeaderBoard</h3>
 
   <p align="Justify">
     This is an android application developed using java and it functions to retrieve the top learners and top learners with high IQ skills from Google Africa Developer 
@@ -8,9 +12,7 @@ Scholarship leaderboard API and display them in a recycler view on a tab layout 
 has a submission form that submits a github link together with user names and email address to Google form using a reftrofit2 POST method.
     <br>
 </p>
-<p align="center">
-   <img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
-  </p>
+
 
 <br>
 
