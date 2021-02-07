@@ -1,7 +1,7 @@
 
 ## Table of Contents
 
-[Table of Contents](#table-of-contents)
+
 - [LeaderBoard](#leaderboard)
 - [Prerequisites](#prerequisites)
 - [Project Flow](#project-flow)
@@ -9,12 +9,13 @@
   - [Home Activity](#home-activity)
   - [Submission Activity](#submission-activity)
  - [Dialogs](#dialogs)
-  - [nformation Dialog](#information-dialog)
+  - [Information Dialog](#information-dialog)
   - [Success Dialog](#success-dialog)
   - [Error Dialog](#error-dialog)
 
 
 <p align="center">
+  <br>
   
   <p align="center">
    <img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
