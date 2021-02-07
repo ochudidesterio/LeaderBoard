@@ -7,7 +7,7 @@
 Scholarship leaderboard API and display them in a recycler view on a tab layout activity using Volley. One tab for top learners and another tab for top IQ skills. The application also
 has a submission form that submits a github link together with user names and email address to Google form using a reftrofit2 POST method.
     <br>
-     <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
+     <img align="center" src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
     <br>
     </p>
 </p>
