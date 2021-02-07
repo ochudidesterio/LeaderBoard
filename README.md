@@ -1,7 +1,20 @@
-# LeaderBoard
-This is an android application developed using java and it functions to retrieve the top learners and top learners with high IQ skills from Google Africa Developer 
+<p align="center">
+  
+  <h3 align="center">LeaderBoard</h3>
+
+  <p align="center">
+    This is an android application developed using java and it functions to retrieve the top learners and top learners with high IQ skills from Google Africa Developer 
 Scholarship leaderboard API and display them in a recycler view on a tab layout activity using Volley. One tab for top learners and another tab for top IQ skills. The application also
-has a submission form that submits a github link together with user names and email address to Google form using a reftrofit2 POST method. 
+has a submission form that submits a github link together with user names and email address to Google form using a reftrofit2 POST method.
+    <br>
+     <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
+    <br>
+    </p>
+</p>
+
+<br>
+
+ 
 
 ## Prerequisites
 
