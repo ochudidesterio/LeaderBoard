@@ -4,6 +4,7 @@ Scholarship leaderboard API and display them in a recycler view on a tab layout 
 has a submission form that submits a github link together with user names and email address to Google form using a reftrofit2 POST method. 
 
 ## Prerequisites
+
 -You must have android studio 3.6 and above installed.
 
 -You must have an emulator running on API level 21 or higher or a physical device with android 5 and above
