@@ -37,11 +37,11 @@ has a submission form that submits a github link together with user names and em
 
 ## Prerequisites
 
--You must have android studio 3.6 and above installed.
+- You must have android studio 3.6 and above installed.
 
--You must have an emulator running on API level 21 or higher or a physical device with android 5 and above
+- You must have an emulator running on API level 21 or higher or a physical device with android 5 and above
 
--Fundamental Knowlegde of ViewPager,Adapters,recyclerViews,Volley and Retrofit
+- Fundamental Knowlegde of ViewPager,Adapters,recyclerViews,Volley and Retrofit
 
 ## Project Flow
 
