@@ -28,8 +28,13 @@ has a submission form that submits a github link together with user names and em
 
 ## Project Flow
 
+- [LeaderBoard](#leaderboard)
+- [Prerequisites](#prerequisites)
   - [Splash Screen](#splash-screen)
   - [Home Activity](#home-activity)
+  - [Submission Activity](#submission-activity)
+ - [Dialogs](#dialogs)
+  
 
 ## Splash screen
 
