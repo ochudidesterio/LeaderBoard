@@ -49,4 +49,4 @@ This dialog pops up when the submision was successful
 
 And if the submission was not succesfull, the dialog below pops on the activity
 
-![Error Dialog]()
+![Error Dialog](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/Error%20Dialog.png?raw=true)
