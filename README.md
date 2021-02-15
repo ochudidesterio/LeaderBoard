@@ -12,6 +12,7 @@
   - [Information Dialog](#information-dialog)
   - [Success Dialog](#success-dialog)
   - [Error Dialog](#error-dialog)
+  - [LICENSE](#license)
 
 
 <p align="center">
@@ -92,3 +93,9 @@ This dialog pops up when the submision was successful
 And if the submission was not succesfull, the dialog below pops on the activity
 
 ![Error Dialog](https://github.com/ochudidesterio/LeaderBoard/blob/master/images/Error%20Dialog.png?raw=true)
+
+
+
+# LICENSE
+
+[MIT](https://github.com/peterokwara/BuildingManagement/blob/master/LICENSE)
