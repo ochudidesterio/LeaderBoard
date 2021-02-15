@@ -98,4 +98,4 @@ And if the submission was not succesfull, the dialog below pops on the activity
 
 # LICENSE
 
-[MIT](https://github.com/peterokwara/BuildingManagement/blob/master/LICENSE)
+[MIT](https://github.com/ochudidesterio/LeaderBoard/blob/master/LICENSE)
